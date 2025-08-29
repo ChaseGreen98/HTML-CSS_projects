@@ -16,7 +16,8 @@
     line-height: 1.5;
     margin: 1em 0;
     text-align: right;
-    max-width: 300px;
+    max-width: 30%;
+    height: auto;
     margin-left: auto;
     margin-right: 0;
 }
@@ -26,7 +27,8 @@
     left: -150px;
     display: block;
     margin: 1em auto;
-    max-width: 300px;
+    max-width: 30%;
+    height: auto;
     border: 5px solid darkred;
     border-radius: 10px;
 }
@@ -35,7 +37,8 @@
     line-height: 1.5;
     margin: 1em 0;
     text-align: center;
-    max-width: 600px;
+    max-width: 60%;
+    height: auto;
     margin-left: 0;
     margin-right: auto;
     position: relative;
@@ -46,7 +49,8 @@
     transform: rotate(-270deg);
     display: block;
     margin: 1em auto;
-    max-width: 300px;
+    max-width: 30%;
+    height: auto;
     border: 5px solid darkred;
     border-radius: 10px;
     position: relative;
@@ -58,7 +62,8 @@
     line-height: 1.5;
     margin: 1em 0;
     text-align: left;
-    max-width: 300px;
+    max-width: 30%;
+    height: auto;
     margin-left: 0;
     margin-right: auto;
     position: relative;
@@ -70,7 +75,8 @@
     left: 150px;
     display: block;
     margin: 1em auto;
-    max-width: 300px;
+    max-width: 30%;
+    height: auto;
     border: 5px solid darkred;
     border-radius: 10px;
 }
