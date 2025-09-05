@@ -23,8 +23,8 @@
 }
 #jimi_1 {
     position: relative;
-    top: -350px;
-    left: -150px;
+    /* top: -350px;
+    left: -150px; */
     display: block;
     margin: 1em auto;
     max-width: 30%;
@@ -54,8 +54,8 @@
     border: 5px solid darkred;
     border-radius: 10px;
     position: relative;
-    top: -400px;
-    left: 350px;
+    /* top: -400px;
+    left: 350px; */
 }
 #paragraph-3 {
     font-size: 1.1em;
@@ -71,8 +71,8 @@
 }
 #jimi_2 {
     position: relative;
-    top: -800px;
-    left: 150px;
+    /* top: -800px;
+    left: 150px; */
     display: block;
     margin: 1em auto;
     max-width: 30%;
