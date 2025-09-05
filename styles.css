@@ -80,3 +80,20 @@
     border: 5px solid darkred;
     border-radius: 10px;
 }
+
+@media (max-width: 768px) {
+    #paragraph,
+    #paragraph-2,
+    #paragraph-3 {
+        max-width: 90%;
+        text-align: left;
+        margin: 1em auto;
+        position: static; 
+    }
+    #jimi_1,
+    #jimi_2,
+    #guitar {
+        max-width: 90%;
+        position: static; 
+    }
+}
