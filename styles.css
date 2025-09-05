@@ -11,7 +11,7 @@
 }
 #paragraph {
     position: relative;
-    top: 50px;
+    /* top: 50px; */
     font-size: 1.1em;
     line-height: 1.5;
     margin: 1em 0;
@@ -42,8 +42,8 @@
     margin-left: 0;
     margin-right: auto;
     position: relative;
-    top: -300px;
-    left: 100px;
+    /* /* top: -300px;
+    left: 100px; */
 }
 #guitar {
     transform: rotate(-270deg);
@@ -67,7 +67,7 @@
     margin-left: 0;
     margin-right: auto;
     position: relative;
-    top: -400px;
+    /* top: -400px; */
 }
 #jimi_2 {
     position: relative;
@@ -79,21 +79,4 @@
     height: auto;
     border: 5px solid darkred;
     border-radius: 10px;
-}
-
-@media (max-width: 768px) {
-    #paragraph,
-    #paragraph-2,
-    #paragraph-3 {
-        max-width: 90%;
-        text-align: left;
-        margin: 1em auto;
-        position: static; 
-    }
-    #jimi_1,
-    #jimi_2,
-    #guitar {
-        max-width: 90%;
-        position: static; 
-    }
 }
